@@ -1,6 +1,6 @@
 General overall results:
 
-Compatibility with OS Google Chrome (all 3 tests) - passed
+Compatibility with OS Google Chrome (test 3) - passed
 Functionality testing errors (tests 1 and 2) - failed 
 Usability errors ( tests 1 and 2 ) - failed 
 Performance testing errors (tests 1 and 2) - failed
