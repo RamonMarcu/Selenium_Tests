@@ -1,6 +1,7 @@
 Running 'Compatibility_test_OS_GoogleChrome_Desktop'
 16:38:40
-1.open on https://ramoncristian00.wixsite.com/website OK
+1.
+open on https://ramoncristian00.wixsite.com/website OK
 16:38:41
 2.
 setWindowSize on 2560x1080 OK
@@ -17,6 +18,9 @@ Trying to find linkText=BOOK NOW... Failed:
 Implicit Wait timed out after 30000ms
 'Compatibility_test_OS_GoogleChrome_Desktop' ended with 1 error(s)
 16:39:16
+
+
+
 Running 'Compatibility_test_OS_GoogleChrome_Desktop2'
 16:40:27
 1.
@@ -37,6 +41,11 @@ Trying to find css=.gm-fullscreen-control... Failed:
 Implicit Wait timed out after 30000ms
 'Compatibility_test_OS_GoogleChrome_Desktop2' ended with 1 error(s)
 16:41:02
+
+
+
+
+
 Running 'Compatibility_test_OS_GoogleChrome_Desktop3'
 16:42:12
 1.
