@@ -1,4 +1,4 @@
-Running 'Compatibility_test_OS_GoogleChrome_Desktop'
+Running 'test_1'
 16:38:40
 1.
 open on https://ramoncristian00.wixsite.com/website OK
@@ -16,12 +16,12 @@ click on css=#hz9p881d .M3I7Z2 OK
 Trying to find linkText=BOOK NOW... Failed:
 16:38:43
 Implicit Wait timed out after 30000ms
-'Compatibility_test_OS_GoogleChrome_Desktop' ended with 1 error(s)
+'test_1' ended with 1 error(s)
 16:39:16
 
 
 
-Running 'Compatibility_test_OS_GoogleChrome_Desktop2'
+Running 'test_2'
 16:40:27
 1.
 open on https://ramoncristian00.wixsite.com/website OK
@@ -39,14 +39,14 @@ selectFrame on index=1 OK
 Trying to find css=.gm-fullscreen-control... Failed:
 16:40:32
 Implicit Wait timed out after 30000ms
-'Compatibility_test_OS_GoogleChrome_Desktop2' ended with 1 error(s)
+'test_2' ended with 1 error(s)
 16:41:02
 
 
 
 
 
-Running 'Compatibility_test_OS_GoogleChrome_Desktop3'
+Running 'test_3'
 16:42:12
 1.
 open on https://ramoncristian00.wixsite.com/website OK
@@ -90,5 +90,5 @@ mouseOut on id=DrpDwnMn04label OK
 14.
 click on id=DrpDwnMn05label OK
 16:42:20
-'Compatibility_test_OS_GoogleChrome_Desktop3' completed successfully
+'test_3' completed successfully
 16:42:21
