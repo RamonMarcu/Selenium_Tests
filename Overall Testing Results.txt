@@ -1,0 +1,16 @@
+General overall results:
+
+Compatibility with OS Google Chrome (all 3 tests) - passed
+Functionality testing errors (tests 1 and 2) - failed 
+Usability errors ( tests 1 and 2 ) - failed 
+Performance testing errors (tests 1 and 2) - failed
+System testing errors (tests 1 and 2) - failed
+End-to-end testing errors (tests 1 and 2) - failed
+
+
+Conclusion: 
+
+
+- Due to the free hosting plan, it has limitations.  
+- Other than open web app, navigating between pages, responsiveness  and  and access images the other functionalities such as book an appointment do not work as expected in a paid plan. 
+
