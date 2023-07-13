@@ -1,0 +1,85 @@
+Running 'Compatibility_test_OS_GoogleChrome_Desktop'
+16:38:40
+1.open on https://ramoncristian00.wixsite.com/website OK
+16:38:41
+2.
+setWindowSize on 2560x1080 OK
+16:38:41
+3.
+click on id=DrpDwnMn00label OK
+16:38:41
+4.
+click on css=#hz9p881d .M3I7Z2 OK
+16:38:43
+5.
+Trying to find linkText=BOOK NOW... Failed:
+16:38:43
+Implicit Wait timed out after 30000ms
+'Compatibility_test_OS_GoogleChrome_Desktop' ended with 1 error(s)
+16:39:16
+Running 'Compatibility_test_OS_GoogleChrome_Desktop2'
+16:40:27
+1.
+open on https://ramoncristian00.wixsite.com/website OK
+16:40:28
+2.
+setWindowSize on 1280x775 OK
+16:40:28
+3.
+click on id=DrpDwnMn00label OK
+16:40:28
+4.
+selectFrame on index=1 OK
+16:40:29
+5.
+Trying to find css=.gm-fullscreen-control... Failed:
+16:40:32
+Implicit Wait timed out after 30000ms
+'Compatibility_test_OS_GoogleChrome_Desktop2' ended with 1 error(s)
+16:41:02
+Running 'Compatibility_test_OS_GoogleChrome_Desktop3'
+16:42:12
+1.
+open on https://ramoncristian00.wixsite.com/website OK
+16:42:12
+2.
+setWindowSize on 2560x1080 OK
+16:42:12
+3.
+click on id=DrpDwnMn00label OK
+16:42:13
+4.
+click on id=DrpDwnMn01label OK
+16:42:14
+5.
+runScript on window.scrollTo(0,346) OK
+16:42:15
+6.
+Trying to find css=.E6d271:nth-child(3) .Dn9jVh... OK
+16:42:16
+7.
+click on css=.XN0hAn > .dBklX7 OK
+16:42:17
+8.
+click on css=.YRSSGK OK
+16:42:18
+9.
+click on id=DrpDwnMn02label OK
+16:42:18
+10.
+click on id=DrpDwnMn03label OK
+16:42:19
+11.
+click on id=DrpDwnMn04label OK
+16:42:19
+12.
+mouseOver on id=DrpDwnMn04label OK
+16:42:19
+13.
+mouseOut on id=DrpDwnMn04label OK
+16:42:20
+14.
+click on id=DrpDwnMn05label OK
+16:42:20
+'Compatibility_test_OS_GoogleChrome_Desktop3' completed successfully
+16:42:21
